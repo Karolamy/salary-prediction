@@ -29,3 +29,9 @@ To run the app locally, follow these steps:
 4. Run the app:
    streamlit run app.py
 
+Technologies Used
+
+Python
+Streamlit
+scikit-learn (for linear regression model)
+pandas, numpy (for data handling)
