@@ -29,9 +29,18 @@ To run the app locally, follow these steps:
 4. Run the app:
    streamlit run app.py
 
-Technologies Used
 
+Technologies Used
 Python
 Streamlit
 scikit-learn (for linear regression model)
 pandas, numpy (for data handling)
+
+## Future Improvements
+
+- Add additional regression models for comparison
+- Allow users to upload their own CSV data for prediction
+- Improve UI design and overall user experience
+
+_These features are currently being planned or are in development._
+
